@@ -1,15 +1,50 @@
 
 {
-    "alunos": [
+    "cardápio": [
         {
             "id": 1,
-            "nome": "aluna A",
-            "nota": 8
+            "nome": "macarronada ",
+            "tempo estimado": 30"minutos"
         },
         {
             "id": 2,
-            "nome": "aluno B",
-            "nota": 5.3
+            "nome": "lasanha",
+            "tempo estimado": 15"minutos"
+        },
+        {
+            "id": 3,
+            "nome": "feijoada",
+            "tempo estimado": 45"minutos"
+        },
+        {
+            "id": 4,
+            "nome": "vaca atolada",
+            "tempo estimado": 50"minutos"
+        }
+    ],
+    
+    "bebidas": [
+        {
+            "id": 1,
+            "nome": " ",
+            "tempo estimado": 30"minutos"
+        },
+        {
+            "id": 2,
+            "nome": "",
+            "tempo estimado": 15"minutos"
+        },
+        {
+            "id": 3,
+            "nome": "",
+            "tempo estimado": 45"minutos"
+        },
+        {
+            "id": 4,
+            "nome": "",
+            "tempo estimado": 50"minutos"
         }
     ]
+    
+    
 }
