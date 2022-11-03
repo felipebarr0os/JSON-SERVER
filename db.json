@@ -56,7 +56,7 @@
     ],
     
 
-        "sobremesas": [
+    "sobremesas": [
     {
         "id": 1,
         "nome": " bolo de chocolate",
@@ -78,7 +78,4 @@
         "preço":  "25,00 R$"
         
     }
-]
-
-
-}
+]}
