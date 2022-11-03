@@ -4,47 +4,81 @@
         {
             "id": 1,
             "nome": "macarronada ",
-            "tempo estimado": 30"minutos"
+            "tempo estimado": "30 minutos",
+            "preço" : "17,00 R$"
         },
         {
             "id": 2,
             "nome": "lasanha",
-            "tempo estimado": 15"minutos"
+            "tempo estimado": "15 minutos",
+            "preço" : "15,00 R$"
         },
         {
             "id": 3,
             "nome": "feijoada",
-            "tempo estimado": 45"minutos"
+            "tempo estimado":  "45 minutos",
+            "preço" : "25,00 R$"
         },
         {
             "id": 4,
             "nome": "vaca atolada",
-            "tempo estimado": 50"minutos"
+            "tempo estimado": "50 minutos",
+            "preço" : "22,00 R$"
         }
     ],
     
-    "bebidas": [
+    "suco da fruta": [
         {
             "id": 1,
-            "nome": " ",
-            "tempo estimado": 30"minutos"
+            "nome": " suco de goiaba ",
+            "tempo estimado": "2 minutos",
+            "preço":  "4,00 R$"
         },
         {
             "id": 2,
-            "nome": "",
-            "tempo estimado": 15"minutos"
+            "nome": "suco de laranja",
+            "tempo estimado":  "5 minutos",
+            "preço":  "3,50 R$"
         },
         {
             "id": 3,
-            "nome": "",
-            "tempo estimado": 45"minutos"
+            "nome": "suco de acerola",
+            "tempo estimado": "4 minutos",
+            "preço":  "5,00 R$"
         },
         {
             "id": 4,
-            "nome": "",
-            "tempo estimado": 50"minutos"
+            "nome": "suco de manga",
+            "tempo estimado": "4 minutos",
+            "preço":  "7,00 R$"
+           
         }
-    ]
+    ],
     
-    
+
+        "sobremesas": [
+    {
+        "id": 1,
+        "nome": " bolo de chocolate",
+        "preço" : "15,00 R$"
+    },  
+    {
+        "id": 2,
+        "nome": "bolo de laranja",
+        "preço":  "10,00 R$"
+    },
+    {
+        "id": 3,
+        "nome": "torta de verdura",
+        "preço":  "12,00 R$"
+    },
+    {
+        "id": 4,
+        "nome": "pudim",
+        "preço":  "25,00 R$"
+        
+    }
+]
+
+
 }
