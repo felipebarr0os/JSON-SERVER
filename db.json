@@ -1,5 +1,5 @@
 {
-    "cardápio":
+    "cardapio":
      [
         {
             "id": 1,
@@ -27,7 +27,7 @@
         }
     ],
     
-    "suco da fruta": 
+    "suco": 
     [
         {
             "id": 1,
