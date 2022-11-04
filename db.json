@@ -1,6 +1,6 @@
-
 {
-    "cardápio": [
+    "cardápio":
+     [
         {
             "id": 1,
             "nome": "macarronada ",
@@ -27,7 +27,8 @@
         }
     ],
     
-    "suco da fruta": [
+    "suco da fruta": 
+    [
         {
             "id": 1,
             "nome": " suco de goiaba ",
@@ -55,8 +56,8 @@
         }
     ],
     
-
-    "sobremesas": [
+    "sobremesas": 
+    [
     {
         "id": 1,
         "nome": " bolo de chocolate",
@@ -75,7 +76,6 @@
     {
         "id": 4,
         "nome": "pudim",
-        "preço":  "25,00 R$"
-        
+        "preço":  "25,00 R$"   
     }
 ]}
